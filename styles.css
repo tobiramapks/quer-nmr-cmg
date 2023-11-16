@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.yes {
+    background-color: green;
+    color: white;
+    border: 20px solid transparent;
+    cursor: pointer;
+}
+
+.no {
+    background-color: red;
+    color: white;
+    border: 20px solid transparent;
+}
